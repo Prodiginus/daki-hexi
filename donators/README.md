@@ -1,0 +1,1 @@
+# No idea how we're going to reward donators yet but we'll see

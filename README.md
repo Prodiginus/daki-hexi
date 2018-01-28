@@ -1,2 +1,3 @@
-# daki-hexi
-Daki-Hexi Theme
+# DaKi-Hexi
+
+## Very WIP
