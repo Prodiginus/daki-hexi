@@ -1,5 +1,5 @@
 # DaKi-Hexi
 
-![LOGO](https://github.com/Prodiignus/daki-hexi/raw/master/assets/readme_assets/logo.png)
+![LOGO](https://raw.githubusercontent.com/Prodiginus/daki-hexi/master/assets/readme_assets/logo.png)
 
 ## Very WIP
